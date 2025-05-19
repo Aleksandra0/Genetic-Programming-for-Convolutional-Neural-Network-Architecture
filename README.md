@@ -2,6 +2,10 @@
 
 This project uses genetic programming to evolve simple convolutional neural network architectures for image classification tasks. It utilizes the DEAP library for the genetic programming framework and TensorFlow/Keras for building and evaluating the neural networks.
 
+### Link to the project:
+
+https://colab.research.google.com/drive/1nJUs3OK7hTYdqjzStfQpi1RLuCLrRdyT#scrollTo=js-05uKkk-6L
+
 ## Datasets
 
 The code loads and preprocesses three image datasets:
